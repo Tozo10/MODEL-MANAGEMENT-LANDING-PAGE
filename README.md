@@ -4,7 +4,7 @@ Designed and developed a visually appealing landing page for a model management 
 
 Here are certain glimpses :
 
-**Light mode   : **                                                                                                                                      
+# Light mode   :                                                                                                                                    
 
 ![Screenshot (377)](https://github.com/user-attachments/assets/55829948-224e-4199-997f-7a1d90cb872b)  
 
@@ -21,7 +21,7 @@ Here are certain glimpses :
 ![Screenshot (381)](https://github.com/user-attachments/assets/fcb0fb31-fd13-4ece-8f40-d48d0ab99bba)  
 
 
-**Dark Mode :**
+# Dark Mode :
 
 ![Screenshot (382)](https://github.com/user-attachments/assets/a69b05cd-e028-40c4-b071-75d25e607a1b)
 
